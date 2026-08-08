@@ -236,8 +236,7 @@ Based on the dashboard:
 
 ## Dashboard Preview
 
-![Sales Analytics Dashboard](<img width="1917" height="1022" alt="dashboard" src="https://github.com/user-attachments/assets/9bce1521-96fa-460a-9e0e-84fc5c256b90" />
-)
+![Sales Analytics Dashboard](dashboard.png))
 ---
 
 ## Data Analytics Workflow
