@@ -1,5 +1,3 @@
-<img width="1502" height="898" alt="image" src="https://github.com/user-attachments/assets/48b69ee5-7dfc-4ac3-86a1-f695773e2017" /># Sales Analytics Dashboard – Power BI
-
 An interactive Sales Analytics Dashboard developed using Microsoft Power BI to analyze sales performance, customer orders, regional performance, product performance, monthly trends, and order status.
 
 This project demonstrates the complete data analytics workflow, from raw data preparation and cleaning to DAX calculations, visualization, and business insight generation.
@@ -238,7 +236,8 @@ Based on the dashboard:
 
 ## Dashboard Preview
 
-![Sales Analytics Dashboard](dashboard.png)
+![Sales Analytics Dashboard](<img width="1917" height="1022" alt="dashboard" src="https://github.com/user-attachments/assets/9bce1521-96fa-460a-9e0e-84fc5c256b90" />
+)
 ---
 
 ## Data Analytics Workflow
